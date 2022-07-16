@@ -1,4 +1,4 @@
-package com.devsuperior.dsmove.config;
+package com.devsuperior.dsmeta.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
